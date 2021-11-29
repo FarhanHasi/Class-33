@@ -24,7 +24,7 @@ function preload()
   rabbitEat = loadAnimation("eat_0.png","eat_1.png","eat_2.png","eat_3.png","eat_4.png");
   rabbitSad = loadAnimation("sad_1.png","sad_2.png","sad_3.png");
   bgSound = loadSound("sound1.mp3");
-  cutSound = loadSound("cutting Through Foliage.mp3");
+  //cutSound = loadSound("cut.mp3");
   eatSound = loadSound("eating_sound.mp3");
   ropeSound = loadSound("rope_cut.mp3");
   sadSound = loadSound("sad.wav");
